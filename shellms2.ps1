@@ -1,0 +1,1 @@
+Solução: Você pode tentar adicionar um pequeno atraso (Start-Sleep -Seconds 1) antes da chamada ShowWindow para dar tempo à janela de ser criada completamente antes de tentar ocultá-la
